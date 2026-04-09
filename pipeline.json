@@ -1,0 +1,35 @@
+{
+  "project": "exp1096-cultivation-startup",
+  "created_at": "2026-04-09T11:40:48.666617+00:00",
+  "github_repo": "ykzhujiang/exp1096-cultivation-startup",
+  "config": {
+    "theme": "灵气复苏第一天。陈默，前创业公司CTO（被合伙人坑了），在出租屋改简历时感受到灵气，用程序员思维抓包分析灵气数据流。窗外城市天翻地覆。一张破烂宗门招聘传单飘到窗前。修仙×创业×搞笑融梗。",
+    "genre": "comedy",
+    "style": "anime",
+    "duration": 15,
+    "characters": 1,
+    "setting": "中国·当代·都市（灵气复苏第一天）",
+    "ratio": "9:16",
+    "episode": "ep01",
+    "source_video": null,
+    "entry": "B"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
