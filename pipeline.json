@@ -31,8 +31,10 @@
       "storyboard_verdict": "PASS"
     },
     "step3": {
-      "status": "in_progress",
-      "started_at": "2026-04-09T11:45:00.336808+00:00"
+      "status": "done",
+      "started_at": "2026-04-09T11:45:00+00:00",
+      "completed_at": "2026-04-09T11:50:00+00:00",
+      "output": "assets/asset-map.json"
     },
     "step4": {
       "status": "not_started"

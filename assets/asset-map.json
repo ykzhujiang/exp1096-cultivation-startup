@@ -1,0 +1,17 @@
+{
+  "陈默": {
+    "url": "https://files.catbox.moe/tqn4cz.png",
+    "type": "character",
+    "local": "assets/陈默.png"
+  },
+  "出租屋": {
+    "url": "https://files.catbox.moe/of1kku.png",
+    "type": "scene",
+    "local": "assets/出租屋.png"
+  },
+  "城市天际线-灵气": {
+    "url": "https://files.catbox.moe/dg54r9.png",
+    "type": "scene",
+    "local": "assets/城市天际线-灵气.png"
+  }
+}
