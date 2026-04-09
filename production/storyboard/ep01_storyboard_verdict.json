@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-04-09T11:42:23.563177+00:00",
+  "verdict": "PASS",
+  "total_pairs": 0,
+  "failures": [],
+  "cross_episode_check": null,
+  "auto_fix_rounds": 0
+}
